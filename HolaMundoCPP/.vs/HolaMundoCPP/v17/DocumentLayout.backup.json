@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbrer\\Desktop\\C\u002B\u002B\\HolaMundoCPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE27A8A5-1284-4946-9DE7-19FDFA21E7C7}|HolaMundoCPP\\HolaMundoCPP.vcxproj|C:\\Users\\kbrer\\Desktop\\C\u002B\u002B\\HolaMundoCPP\\HolaMundoCPP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE27A8A5-1284-4946-9DE7-19FDFA21E7C7}|HolaMundoCPP\\HolaMundoCPP.vcxproj|solutionrelative:HolaMundoCPP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\kbrer\\Desktop\\C\u002B\u002B\\HolaMundoCPP\\HolaMundoCPP\\Source.cpp",
+              "RelativeDocumentMoniker": "HolaMundoCPP\\Source.cpp",
+              "ToolTip": "C:\\Users\\kbrer\\Desktop\\C\u002B\u002B\\HolaMundoCPP\\HolaMundoCPP\\Source.cpp",
+              "RelativeToolTip": "HolaMundoCPP\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-27T08:04:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
